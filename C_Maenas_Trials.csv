@@ -1,0 +1,41 @@
+Trial #,Trial type,Date,Start time,Water temp (C),Lux left side,Lux center,Lux right side,Water level above gravel (mm),Gravel depth (mm),Avg. gravel volume (mm^2),Carapace width (mm),Carapace depth (mm),Initial choice (after evacuation),Time to evacuate start box (s),Seconds in start box,Seconds on left side,Seconds on right side,Order,Notes
+1,control,8/4/18,20:39,21.7,-,4700,-,15,5,406,25.8,10.2,left,0,495,65,40,"sb, l, sb, r, sb, r, sb",they like corners/angles. doesn't stray far from black structure
+2,control,8/5/18,9:27,19.9,-,4110,-,15,5,406,19,7,sb,441,580,0,21,"sb, r, sb",sensitive to sound/vibration (reaction to footsteps)
+3,control,8/5/18,9:40,20.3,-,4110,-,15,5,406,19,7.9,right,1,487,50,65,"sb, r, l, sb, r, sb, r, sb",immediately tried burrowing (unsuccessfully) in different areas
+4,control,8/5/18,10:36,20.9,-,4850,-,15,5,406,24.1,9.4,sb,600,600,0,0,sb,wanted to leave start box until cover was removed... common with larger crabs
+5,control,8/5/18,10:50,21.2,-,4200,-,15,5,406,23.5,9.3,sb,138,280,29,292,"sb, r, sb, r, l, r",
+6,control,8/5/18,11:10,21.6,-,4150,-,15,5,406,12,4.5,right,1,1,0,599,"sb, r",burrowed
+7,control,8/5/18,11:27,21.9,5440,4050,2160,15,5,406,15.2,5,sb,600,600,0,0,sb,
+8,control,8/5/18,11:40,22.1,5520,4300,1960,15,5,406,21.4,6.5,sb,600,600,0,0,sb,burrowed immediately
+9,control,8/5/18,11:54,22.3,5650,4040,2130,15,5,406,18.8,6.5,sb,1,591,9,0,"sb, l, sb",burrowed at sb within 30s
+10,control,8/5/18,13:11,22.8,6200,4880,2240,15,5,406,14,5.5,sb,600,600,0,0,sb,
+11,control,8/5/18,13:55,22,6980,5580,2900,15,5,406,12,4.4,left,1,7,586,7,"sb, r, sb, r",corners
+12,control,8/5/18,14:08,22.4,6280,4510,2130,15,5,406,11.8,4.5,sb,600,600,0,0,sb,stayed burrowed in sb from the start
+13,control,8/5/18,14:21,22.7,6210,4700,2100,15,5,406,22,9,left,0,0,600,0,"sb, l","hid in corner by black structure, then burrowed"
+14,control,8/5/18,14:34,23,6290,4390,2270,15,5,406,13.2,4,sb,600,600,0,0,sb,in back right corner of start box
+15,control,8/5/18,15:30,23.3,7240,5830,2830,15,5,406,7,2,sb,600,600,0,0,sb,burrowed at sb before trial start. smaller crabs can burrow more easily
+16,control,8/5/18,15:43,23.4,6560,5080,2460,15,5,406,11.5,4,sb,1,587,0,13,"sb, r, sb","""explorative"" behavior, settled at back right corner of start box"
+17,control,8/5/18,15:56,23.5,6190,4910,2400,15,5,406,11.9,3.7,sb,600,600,0,0,sb,burrowed immediately
+18,control,8/5/18,16:33,23.9,6490,4810,2250,15,5,406,19,8,sb,2,591,0,9,"sb, r, sb","failed attempt to burrow at sb, stayed there anyway"
+19,control,8/5/18,17:37,23.9,7010,5340,2270,15,5,406,18.4,6.1,right,1,90,414,96,"sb, r, sb, l","attempted burrow at 90s then relocated to sb, then hid in black corner/divet of left side structure"
+20,control,8/5/18,17:51,24,6300,4650,2090,15,5,406,17.5,5.8,sb,600,600,0,0,sb,burrowed at edge of white box. wouold approach edge of sb then turn back
+21,variable,8/4/18,19:46,19.9,64.8,-,1705,15,5,406,25.8,10.2,left,1,1,599,0,"sb, l",hung out under shadow near start box
+22,variable,8/4/18,20:01,20.8,64.8,-,1705,15,5,406,19,7,left,0,32,566,0,"sb, l, sb, l ",
+23,variable,8/4/18,20:15,21.1,46.7,-,1742,15,5,406,19,7.9,left,0,0,600,0,"sb, l",middle of shadow area
+24,variable,8/5/18,21:04,21,45.5,-,2520,15,5,406,24,9.8,sb,600,600,0,0,sb,burrowed at start box
+25,variable,8/5/18,21:19,21.5,46.9,-,2410,15,5,406,16.7,6.2,sb,600,600,0,0,sb,settled wo exploration.. note:all that burrow face inwards
+26,variable,8/5/18,22:48,22.5,49.4,-,2130,15,5,406,23.9,9.5,right,0,0,0,600,"sb, r",burrowed under cover with butt up to black structure
+27,variable,8/5/18,23:01,22.2,52,-,1940,15,5,406,17.8,8,left,1,1,599,0,"sb, l","burrowed after a couple minutes, not near black structure"
+28,variable,8/5/18,23:14,22.6,45.1,-,2050,15,5,406,12,4.5,left,1,1,599,0,"sb, l","burrowed almost immediately, not near black structure.. those that have shade have less of a need for physical contact when burrowing"
+29,variable,8/5/18,23:26,22.8,42.9,-,1910,15,5,406,15.1,5.5,right,1,1,0,599,"sb, r","power went out for under a second, seemed to have no effect. never burrowed"
+30,variable,8/5/18,23:39,22.9,47,-,1820,15,5,406,17,7.4,sb,600,600,0,0,sb,burrowed at intersection of sb and cover (cover was too short)
+31,variable,8/6/18,17:38,20.4,58.4,-,1800,15,5,406,18.8,7.1,sb,441,441,159,0,"sb, l","burrowed before start of trial, facing in though. some exploration of sb.. took a while to move into the shade.. burrowed again in another corner!"
+32,variable,8/6/18,17:51,23.2,58.9,-,1530,15,5,406,22.7,8.2,sb,600,600,0,0,sb,
+33,variable,8/6/18,18:31,23.9,45.4,-,1430,15,5,406,18.4,7.1,sb,600,600,0,0,sb,super loud. burrowed in the open
+34,variable,8/6/18,18:43,24,54,-,1640,15,5,406,12,4.8,left,3,3,597,0,"sb, l",backed against corner
+35,variable,8/6/18,19:19,24.5,45.2,-,1530,15,5,406,14.3,5.3,sb,48,48,552,0,"sb, l",
+36,variable,8/6/18,19:41,24.9,41.2,-,1840,15,5,406,12.9,4.5,sb,2,131,276,193,"sb, r, l, r, sb, r, l, r, sb, l, sb, r, sb, l, r, l",super super super explorative and mobile!
+37,variable,8/6/18,19:55,25.1,37.5,-,1710,15,5,406,11.6,4,sb,600,600,0,0,sb,burrowed in place right after lid was lifted
+38,variable,8/6/18,20:08,25.4,36.4,-,1540,15,5,406,7,1.5,left,15,15,585,0,"sb, l",
+39,variable,8/6/18,20:23,25.5,34.1,-,1370,15,5,406,12,3.9,sb,600,600,0,0,sb,burrowed immediately
+40,variable,8/6/18,20:34,25.6,39.8,-,1140,15,5,406,11.8,4,left,3,3,597,0,"sb, l",
