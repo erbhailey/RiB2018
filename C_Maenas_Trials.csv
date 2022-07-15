@@ -24,7 +24,7 @@ Trial #,Trial type,Date,Start time,Water temp (C),Lux left side,Lux center,Lux r
 23,variable,8/4/18,20:15,21.1,46.7,-,1742,15,5,406,19,7.9,left,0,0,600,0,"sb, l",middle of shadow area
 24,variable,8/5/18,21:04,21,45.5,-,2520,15,5,406,24,9.8,sb,600,600,0,0,sb,burrowed at start box
 25,variable,8/5/18,21:19,21.5,46.9,-,2410,15,5,406,16.7,6.2,sb,600,600,0,0,sb,settled wo exploration.. note:all that burrow face inwards
-26,variable,8/5/18,22:48,22.5,49.4,-,2130,15,5,406,23.9,9.5,right,0,0,0,600,"sb, r",burrowed under cover with butt up to black structure
+26,variable,8/5/18,22:48,22.5,49.4,-,2130,15,5,406,23.9,9.5,right,0,0,0,600,"sb, r",burrowed under cover with posterior to black structure
 27,variable,8/5/18,23:01,22.2,52,-,1940,15,5,406,17.8,8,left,1,1,599,0,"sb, l","burrowed after a couple minutes, not near black structure"
 28,variable,8/5/18,23:14,22.6,45.1,-,2050,15,5,406,12,4.5,left,1,1,599,0,"sb, l","burrowed almost immediately, not near black structure.. those that have shade have less of a need for physical contact when burrowing"
 29,variable,8/5/18,23:26,22.8,42.9,-,1910,15,5,406,15.1,5.5,right,1,1,0,599,"sb, r","power went out for under a second, seemed to have no effect. never burrowed"
